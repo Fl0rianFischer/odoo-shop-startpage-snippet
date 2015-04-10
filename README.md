@@ -1,6 +1,4 @@
-Odoo transparent, fixed-top navbar
-==================================
+Example Shop Landing Page
+=========================
 
-This addon provides a transparent Navbar for Odoo. You can check out an Example on www.bloopark.de.
-
-If you want to use this addon, simply checkout the folder into you Odoo v8, update the module list and install the Addon. If you are already using a custom theme, please just copy the relevant code into your theme.
+This is just an example snippet to illustrate the responsive design workflow at bloopark systems.
